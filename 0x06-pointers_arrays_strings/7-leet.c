@@ -5,6 +5,7 @@
  * @str: character to be checked
  * Return: if seperator return 1. Otherwise return 0;
  */
+
 char *leet(char *str)
 {
 	/*Declaring variables*/
